@@ -8,3 +8,5 @@ The "_printf()" function models as the "printf()" command found in the stdio.h l
 ## task
 
 int _printf(const char *format, ...)
+
+## task 1
